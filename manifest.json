@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"SCRMaps 보관함 일괄 등록","version":"1.6.5","description":"게임 스크린샷을 순서대로 보관함에 등록합니다.","content_scripts":[{"matches":["https://www.scrmaps.com/class-rpg*"],"js":["stash.js"],"run_at":"document_idle"}]}
